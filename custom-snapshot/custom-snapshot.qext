@@ -1,0 +1,7 @@
+{
+	"name": "custom-snapshot",
+	"description": "Providing a custom snapshot functionality.",
+	"type": "visualization",
+	"version": "1.0.0",
+	"author": "Alexander Karlsson - Developer Relations - akl@qlik.com"
+}
